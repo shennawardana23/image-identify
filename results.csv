@@ -1,0 +1,280 @@
+Hotel ID,Hotel Name,Website URL,Status
+1,Aston Braga Hotel & Residence,https://www.astonhotelsinternational.com/en/hotel/view/8/aston-braga-hotel---residence,Failed
+2,Kamuela Villas and Suites Sanur,https://www.kamuelavillas.com/en/villa/view/1/kamuela-villas-and-suite-sanur,Failed
+3,favehotel Pasar Baru,https://www.favehotels.com/en/hotel/view/21/favehotel-pasar-baru,Failed
+4,Aston Denpasar Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/11/aston-denpasar-hotel---convention-center,Success
+5,Aston Rasuna,https://www.astonhotelsinternational.com/en/hotel/view/32/aston-rasuna,Success
+6,Aston at kuningan suitesss,https://www.astonhotelsinternational.com/en/hotel/view/4/aston-at-kuningan-suites,Failed
+7,"Royal Kamuela Villas & Suites at Monkey Forest, Ubud",https://www.kamuelavillas.com/en/villa/view/3/royal-kamuela-villas-suites-at-monkey-forest-ubud,Success
+8,Aston Cengkareng City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/9/aston-cengkareng-city-hotel,Success
+9,Aston Pluit Hotel & Residence,https://www.astonhotelsinternational.com/en/hotel/view/29/aston-pluit-hotel---residence,Success
+10,Aston Marina Ancol,https://www.astonhotelsinternational.com/en/hotel/view/26/aston-marina-ancol,Failed
+11,Aston Imperial Bekasi Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/12/aston-imperial-bekasi-hotel---conference-center,Success
+12,Aston Benhill Hotel & Residence Jakarta,https://www.aston-international.com/eng/hotel-detail/155/aston-benhill-hotel-residence-jakarta,Success
+13,Aston Kemayoran City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/79/aston-kemayoran-city-hotel,Success
+14,Aston Priority Simatupang & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/31/aston-priority-simatupang---conference-center,Success
+16,favehotel Benhill Jakarta,https://www.favehotels.com/hotellist/eng/60/favehotel-benhill-jakarta,Failed
+17,favehotel Gatot Subroto - Jakarta,https://www.favehotels.com/en/hotel/view/20/favehotel-gatot-subroto,Success
+18,favehotel Kemang,https://www.favehotels.com/en/hotel/view/17/favehotel-kemang,Failed
+19,Hotel Neo Mangga Dua Square Jakarta,https://www.neohotels.com/en/hotel/view/29/hotel-neo-mangga-dua-square---jakarta,Failed
+20,favehotel Bandara - Tangerang,https://www.favehotels.com/en/hotel/view/63/favehotel-bandara---tangerang,Success
+21,favehotel PGC Cililitan,https://www.favehotels.com/en/hotel/view/54/favehotel-pgc-cililitan,Success
+22,favehotel Pluit Junction,https://www.favehotels.com/en/hotel/view/45/favehotel-pluit-junction,Success
+23,favehotel Wahid Hasyim,https://www.favehotels.com/en/hotel/view/14/favehotel-wahid-hasyim,Failed
+24,Grand Aston City Hall Medan,https://www.astonhotelsinternational.com/en/hotel/view/42/grand-aston-city-hall-medan,Success
+25,Grand Aston Yogyakarta,https://www.astonhotelsinternational.com/en/hotel/view/43/grand-aston-yogyakarta,Success
+26,Aston Tropicana,https://www.astonhotelsinternational.com/en/hotel/view/40/aston-tropicana,Success
+27,Aston Bogor Hotel & Resort,https://www.astonhotelsinternational.com/en/hotel/view/2/aston-bogor-hotel---resort,Success
+28,Aston Sentul Lake Resort & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/35/aston-sentul-lake-resort---conference-center,Success
+29,Aston Bojonegoro City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/7/aston-bojonegoro-city-hotel,Success
+30,Aston Cirebon Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/10/aston-cirebon-hotel---convention-center,Success
+31,Aston Jember Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/17/aston-jember-hotel---conference-center,Success
+32,Aston Madiun Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/23/aston-madiun-hotel---conference-center,Success
+33,Aston Purwokerto Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/13/aston-imperium-purwokerto,Failed
+34,Aston Solo Hotel,https://www.astonhotelsinternational.com/en/hotel/view/36/aston-solo-hotel,Success
+35,Grand Aston Tunjungan Surabaya Hotel,https://www.aston-international.com/eng/hotel-detail/113/aston-tunjungan-surabaya-hotel,Success
+36,Aston Kuta Hotel & Residence,https://www.astonhotelsinternational.com/en/hotel/view/21/aston-kuta-hotel---residence,Success
+37,Grand Aston Bali Beach Resort,https://www.astonhotelsinternational.com/en/hotel/view/41/grand-aston-bali-beach-resort,Failed
+38,Aston Tuban Inn,https://www.aston-international.com/eng/hotel-detail/17/aston-tuban-inn,Success
+39,Aston Balikpapan Hotel & Residence,https://www.astonhotelsinternational.com/en/hotel/view/5/aston-balikpapan-hotel---residence,Failed
+40,Aston Banua Banjarmasin Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/6/aston-banua-hotel---convention-center,Failed
+41,Aston Ketapang City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/19/aston-ketapang-city-hotel,Success
+42,Aston Pontianak Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/30/aston-pontianak-hotel---convention-center,Success
+43,Aston Samarinda Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/33/aston-samarinda-hotel---convention-center,Success
+44,Aston Tanjung City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/38/aston-tanjung-city-hotel,Success
+45,Aston Kupang Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/20/aston-kupang-hotel---convention-center,Success
+46,Aston Jayapura Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/16/aston-jayapura-hotel---convention-center,Success
+47,Aston Niu Manokwari,https://www.astonhotelsinternational.com/en/hotel/view/27/aston-niu-manokwari,Success
+48,Aston Manado Hotel,https://www.astonhotelsinternational.com/en/hotel/view/25/aston-manado-hotel,Success
+49,Aston Makassar Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/24/aston-makassar-hotel---convention-center,Success
+50,Aston Palembang Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/28/aston-palembang-hotel---conference-center,Success
+51,Aston Tanjung Pinang Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/39/aston-tanjung-pinang-hotel---conference-center,Success
+52,Aston Jambi Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/15/aston-jambi-hotel---conference-center,Success
+53,Aston Lampung City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/22/aston-lampung-city-hotel,Success
+54,The Alana Yogyakarta Hotel & Convention Center,https://www.alanahotels.com/en/hotel/view/2/the-alana-yogyakarta-hotel---convention-center,Success
+55,The Alana Hotel Surabaya,https://www.alanahotels.com/en/hotel/view/3/the-alana-hotel-surabaya,Success
+57,Quest Hotel Simpang Lima - Semarang,https://www.questhotels.com/en/hotel/view/1/quest-hotel-simpang-lima---semarang,Success
+58,Quest Hotel Solo,https://www.questhotels.com/eng/location/hotel/18-Quest-Hotel-Solo,Failed
+59,Quest Hotel Darmo Surabaya,https://www.questhotels.com/en/hotel/view/4/quest-hotel-darmo---surabaya,Success
+60,Quest Hotel San Denpasar,https://www.questhotels.com/en/hotel/view/8/quest-hotel-san-denpasar,Failed
+61,Quest Hotel Kuta,https://www.questhotels.com/en/hotel/view/4/quest-hotel-kuta,Failed
+62,Quest Hotel & Conference Center – Cebu,https://questhotelsandresorts.com/cebu/,Success
+63,favehotel Tanah Abang - Cideng,https://www.favehotels.com/en/hotel/view/117/favehotel-tanah-abang---cideng,Success
+64,Hotel Neo Melawai,https://www.neohotels.com/en/hotel/view/12/hotel-neo-melawai---jakarta,Success
+65,Hotel Neo Tendean Jakarta,https://www.neohotels.com/en/hotel/view/11/hotel-neo-tendean-jakarta,Success
+66,Hotel Neo+ Awana Yogyakarta,https://www.neohotels.com/en/hotel/view/21/hotel-neo--awana-yogyakarta,Failed
+67,Hotel Neo Candi Simpang Lima - Semarang,https://www.neohotels.com/en/hotel/view/18/hotel-neo-candi-simpang-lima-semarang,Success
+68,Hotel Neo Denpasar,https://www.neohotels.com/en/hotel/view/14/hotel-neo-denpasar,Success
+69,"Hotel Neo Kuta, Jelantik",https://www.neohotels.com/en/hotel/view/1/hotel-neo---kuta--jelantik,Success
+70,Hotel Neo Seminyak - Petitenget,https://www.neohotels.com/en/hotel/view/10/hotel-neo-seminyak---petitenget,Failed
+71,Hotel Neo Hotel Medan,https://www.neohotels.com/en/location/overview/17/Hotel-NEO-Medan---North-Sumatra,Failed
+72,favehotel Braga,https://www.favehotels.com/en/hotel/view/53/favehotel-braga,Success
+73,favehotel Premier Cihampelas,https://www.favehotels.com/en/hotel/view/23/favehotel-premier-cihampelas,Success
+74,favehotel Padjajaran Bogor,https://www.favehotels.com/en/hotel/view/24/favehotel-padjajaran,Success
+75,favehotel Kusumanegara,https://www.favehotels.com/en/hotel/view/28/favehotel-kusumanegara,Success
+76,favehotel Dieng Malang,https://www.favehotels.com/hotellist/eng/30/favehotel-dieng,Failed
+77,favehotel Simpang Lima Semarang,https://www.favehotels.com/en/hotel/view/13/favehotel-simpang-lima-semarang,Success
+78,favehotel Manahan - Solo,https://www.favehotels.com/en/hotel/view/8/favehotel-manahan-solo,Success
+79,favehotel Solo Baru,https://www.favehotels.com/en/hotel/view/5/favehotel-solo-baru,Success
+80,favehotel MEX Surabaya,https://www.favehotels.com/en/hotel/view/1/favehotel-mex-tunjungan-surabaya,Success
+81,favehotel Kuta,https://www.favehotels.com/hotellist/eng/34/favehotel-kuta,Failed
+82,favehotel Kuta Square,https://www.favehotels.com/en/hotel/view/37/favehotel-kuta-square,Failed
+83,favehotel Seminyak,https://www.favehotels.com/en/hotel/view/78/favehotel-sunset-seminyak,Success
+84,favehotel Umalas,https://www.favehotels.com/en/hotel/view/36/favehotel-umalas,Failed
+85,favehotel M.T. Haryono - Balikpapan,https://www.favehotels.com/en/hotel/view/38/favehotel-m-t--haryono,Failed
+86,favehotel Kasuari - Makassar,https://www.favehotels.com/hotellist/eng/64/favehotel-kasuari-makassar,Failed
+87,favehotel Cenang Beach Langkawi Malaysia,https://www.favehotels.com/en/hotel/view/16/favehotel-cenang-beach-langkawi,Failed
+88,favehotel Agung Square Kendari,https://www.favehotels.com/hotellist/eng/56/favehotel-agung-square-kendari,Failed
+89,favehotel Graha Agung Surabaya,https://www.favehotels.com/en/hotel/view/57/favehotel-graha-agung,Success
+90,Hotel Neo Palma - Palangkaraya,https://www.neohotels.com/en/hotel/view/35/hotel-neo-palma---palangkaraya,Success
+91,favehotel Panakkukang,https://www.favehotels.com/en/hotel/view/58/favehotel-panakkukang,Failed
+92,favehotel Palembang,https://www.favehotels.com/en/hotel/view/59/favehotel-palembang,Success
+93,favehotel Malioboro,https://www.favehotels.com/hotellist/eng/61/favehotel-malioboro,Failed
+94,favehotel Kelapa Gading,https://www.favehotels.com/en/hotel/view/65/favehotel-kelapa-gading,Success
+95,favehotel Hyper Square - Bandung,https://www.favehotels.com/en/hotel/view/66/favehotel-hyper-square,Success
+96,favehotel Kupang,https://www.favehotels.com/hotellist/eng/67/favehotel-kupang,Failed
+97,favehotel Puri Indah,https://www.favehotels.com/en/hotel/view/68/favehotel-puri-indah,Success
+98,Hotel Neo Eltari Kupang,https://www.neohotels.com/en/hotel/view/36/hotel-neo-eltari---kupang,Success
+99,Aston Semarang Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/34/aston-semarang-hotel---convention-center,Success
+100,Hotel Neo Widuran Solo,https://www.neohotels.com/en/location/overview/37/Hotel-NEO-Widuran---Solo,Failed
+101,favehotel Langko Mataram,https://www.favehotels.com/en/hotel/view/69/favehotel-langko,Success
+102,Aston Inn Mataram,https://www.astonhotelsinternational.com/en/hotel/view/14/aston-inn-mataram,Success
+103,The Alana Hotel & Convention Center - Solo,https://www.alanahotels.com/en/hotel/view/4/the-alana-hotel---convention-center---solo,Success
+104,"Hotel Neo+ Kuta, Legian",https://www.neohotels.com/en/hotel/view/24/hotel-neo--kuta--legian,Success
+105,favehotel Jayapura,https://www.favehotels.com/en/hotel/view/73/favehotel-jayapura,Failed
+106,favehotel LTC Glodok Jakarta,https://www.favehotels.com/en/hotel/view/71/favehotel-ltc-glodok,Success
+107,favehotel Letjend Soeprapto Balikpapan,https://www.favehotels.com/hotellist/eng/72/favehotel-letjend-soeprapto-balikpapan,Failed
+108,favehotel Batam,https://www.favehotels.com/hotellist/eng/74/favehotel-batam,Failed
+109,favehotel Cimanuk Garut,https://www.favehotels.com/en/hotel/view/75/favehotel-cimanuk,Success
+110,favehotel Ahmad Yani Banjarmasin,https://www.favehotels.com/en/hotel/view/30/favehotel-ahmad-yani---banjarmasin,Success
+111,Aston Berau City Hotel,https://www.aston-international.com/eng/hotel-detail/190/aston-berau-city-hotel,Success
+112,Royal Kamuela Senggigi Residence,https://www.kamuelavillas.com/en/the-villas/royal-kamuela-lombok,Failed
+113,Hotel Neo Cirebon,https://www.neohotels.com/en/hotel/view/40/hotel-neo-cirebon,Success
+114,favehotel Palu Bay,https://www.favehotels.com/hotellist/eng/77/favehotel-palu-bay,Failed
+115,favehotel Sunset Seminyak,https://www.favehotels.com/en/hotel/view/78/favehotel-sunset-seminyak,Success
+116,favehotel Raya Kuta (Dewi Sri),https://www.favehotels.com/hotellist/eng/79/favehotel-raya-kuta-(dewi-sri),Failed
+117,favehotel Purwakarta,https://www.favehotels.com/hotellist/eng/80/favehotel-purwakarta,Failed
+118,favehotel Cokroaminoto,https://www.favehotels.com/hotellist/eng/81/favehotel-cokroaminoto,Failed
+119,favehotel Malioboro - Yogyakarta,https://www.favehotels.com/en/hotel/view/86/favehotel-malioboro---yogyakarta,Success
+120,favehotel Zainul Arifin,https://www.favehotels.com/en/hotel/view/82/favehotel-zainul-arifin--gajah-mada-,Success
+121,favehotel Banjarbaru,https://www.favehotels.com/en/hotel/view/34/favehotel-banjarbaru,Success
+122,favehotel Ketintang,https://www.favehotels.com/hotellist/eng/88/favehotel-ketintang-surabaya,Failed
+123,favehotel Ahmad Yani,https://www.favehotels.com/en/hotel/view/83/favehotel-ahmad-yani,Failed
+124,favehotel Colombo,https://www.favehotels.com/hotellist/eng/87/favehotel-colombo,Failed
+125,Aston Anyer Beach Hotel,https://www.astonhotelsinternational.com/en/hotel/view/3/aston-anyer-beach-hotel,Success
+126,Aston Gajah Mada Hotel & Convention Center,https://www.aston-international.com/eng/hotel-detail/219/aston-gajah-mada-hotel-convention-center,Success
+127,Hotel Neo&#43; Pahlawan - Samarinda,https://www.neohotels.com/en/location/overview/44/Hotel-NEO--Pahlawan---Samarinda,Failed
+128,Hotel Neo+ Green Savana Sentul City,https://www.neohotels.com/en/hotel/view/45/hotel-neo--green-savana-sentul-city,Success
+129,Hotel Neo Kelapa Gading - Jakarta,https://www.neohotels.com/en/location/overview/46/Hotel-NEO-Kelapa-Gading---Jakarta,Failed
+130,Quest Hotel Balikpapan,https://www.questhotels.com/en/hotel/view/5/quest-hotel-balikpapan,Success
+131,favehotel Losari," https://www.favehotels.com/en/hotel/view/37/favehotel-pantai-losari-makassar",Failed
+132,favehotel Ratulangi Makassar,https://www.favehotels.com/hotellist/eng/94/favehotel-ratulangi-makassar,Failed
+133,favehotel Cibinong,https://www.favehotels.com/hotellist/eng/92/favehotel-cibinong,Failed
+134,favehotel Tanah Abang II,https://www.favehotels.com/hotellist/eng/93/favehotel-tanah-abang-ii,Failed
+135,favehotel Jepara,https://www.favehotels.com/hotellist/eng/95/favehotel-jepara,Failed
+136,Aston Pekalongan Syariah Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/62/aston-pekalongan-syariah-hotel---conference-center,Success
+137,favehotel Cipete,https://www.favehotels.com/hotellist/eng/99/favehotel-cipete-jakarta,Failed
+138,favehotel Atang Senjaya Cengkareng,https://www.favehotels.com/hotellist/eng/98/favehotel-atang-senjaya-cengkareng,Failed
+139,Harper Kuta,https://www.harperhotels.com/en/hotel/view/12/harper-kuta,Success
+140,Harper Juanda,https://www.harperhotels.com/en/location/overview/48/harper-juanda,Failed
+141,Harper Malioboro Yogyakarta,https://www.harperhotels.com/en/hotel/view/2/harper-malioboro-yogyakarta,Success
+142,Aston Pasteur,https://www.astonhotelsinternational.com/en/hotel/view/45/aston-pasteur,Success
+143,Harper Perintis,https://www.harperhotels.com/en/hotel/view/49/harper-perintis---makassar,Success
+144,favehotel Lagaligo Makassar,https://www.favehotels.com/hotellist/eng/100/favehotel-lagaligo-makassar,Failed
+145,favehotel Tohpati Denpasar,https://www.favehotels.com/en/hotel/view/102/favehotel-tohpati,Failed
+146,favehotel Yos Sudarso - Tarakan,https://www.favehotels.com/hotellist/eng/105/favehotel-yos-sudarso---tarakan,Failed
+147,favehotel Jababeka,https://www.favehotels.com/en/hotel/view/107/favehotel-jababeka,Failed
+148,Aston Karimun City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/18/aston-karimun-city-hotel,Success
+149,Aston Sunset Beach Resort - Gili Trawangan,https://www.astonhotelsinternational.com/en/hotel/view/37/aston-sunset-beach-resort---gili-trawangan,Success
+150,favehotel Melawai,https://www.favehotels.com/en/hotel/view/25/favehotel-melawai,Success
+151,Favehotel Cipanas,https://www.favehotels.com/hotellist/eng/108/favehotel-cipanas,Failed
+152,Favehotel Sultan Abdurrahman - Pontianak,https://www.favehotels.com/hotellist/eng/109/favehotel-sultan-abdurrahman---pontianak,Failed
+153,Aston Timika Hotel & Convention Center,https://www.aston-international.com/eng/hotel-detail/249/aston-timika-hotel-convention-center,Success
+154,Aston Cikarang City Hotel,https://www.aston-international.com/eng/hotel-detail/253/aston-cikarang-city-hotel,Success
+155,favehotel Daan Mogot - Jakarta,https://www.favehotels.com/hotellist/eng/110/favehotel-daan-mogot---jakarta,Failed
+156,favehotel Cokroaminoto - Denpasar,https://www.favehotels.com/hotellist/eng/111/favehotel-cokroaminoto---denpasar,Failed
+157,Harper M.T. Haryono - Jakarta,https://www.harperhotels.com/en/hotel/view/54/harper-m-t--haryono---jakarta,Success
+158,Aston Batam Hotel & Residence,https://www.astonhotelsinternational.com/en/hotel/view/52/aston-batam-hotel---residence,Success
+159,favehotel Olo - Padang,https://www.favehotels.com/en/hotel/view/112/favehotel-olo---padang,Success
+160,favehotel Sudirman - Pekanbaru,https://www.favehotels.com/en/hotel/view/113/favehotel-sudirman---pekanbaru,Success
+161,Hotel Neo Sungkono - Surabaya,https://www.neohotels.com/en/hotel/view/41/hotel-neo-sungkono---surabaya,Failed
+162,Hotel Neo Gajah Mada - Pontianak,https://www.neohotels.com/en/hotel/view/52/hotel-neo-gajah-mada---pontianak,Success
+163,favehotel Cilacap,https://www.favehotels.com/en/hotel/view/114/favehotel-cilacap,Success
+164,Quest Prime Cikarang,https://www.questhotels.com/en/hotel/view/10/quest-hotel-cikarang,Failed
+165,favehotel Juanda - Surabaya,https://www.favehotels.com/hotellist/eng/115/favehotel-juanda---surabaya,Failed
+166,Aston Bengkulu City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/54/aston-bengkulu-city-hotel,Success
+167,favehotel Rembang,https://www.favehotels.com/en/hotel/view/116/favehotel-rembang,Success
+168,Aston Banyuwangi Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/55/aston-banyuwangi-hotel---conference-center,Success
+169,Grand Aston Jambi Hotel & Convention Center,https://www.aston-international.com/eng/hotel-detail/264/grand-aston-jambi-hotel-convention-center,Success
+170,Hotel Neo Dipatiukur - Bandung,https://www.neohotels.com/en/hotel/view/55/hotel-neo-dipatiukur---bandung,Success
+171,Hotel Neo+ Penang - Malaysia,https://www.neohotels.com/en/hotel/view/57/hotel-neo--penang---malaysia,Success
+172,Hotel Neo Banjarbaru - Kalimantan,https://www.neohotels.com/en/hotel/view/58/hotel-neo-banjarbaru---kalimantan,Failed
+173,The Grove Suites,https://www.aston-international.com/eng/hotel-detail/86/the-grove-suites,Success
+174,Harper Purwakarta,https://www.harperhotels.com/en/hotel/view/3/harper-purwakarta,Success
+175,favehotel Lokasari - Jakarta,https://www.favehotels.com/hotellist/eng/118/favehotel-lokasari---jakarta,Failed
+176,favehotel Mayjen Sutoyo - Bengkulu,https://www.favehotels.com/hotellist/eng/119/favehotel-mayjen-sutoyo---bengkulu,Failed
+177,favehotel Margonda - Depok,https://www.favehotels.com/en/hotel/view/120/favehotel-margonda---depok,Success
+178,Royal Kamuela Sebatu - Ubud,https://www.kamuelavillas.com/en/the-villas/royal-kamuela-sebatu,Failed
+179,Hotel Neo Ring Road - Yogyakarta,https://www.neohotels.com/en/hotel/view/60/hotel-neo-ring-road---yogyakarta,Failed
+180,Hotel Neo Malioboro - Yogyakarta,https://www.neohotels.com/en/hotel/view/59/hotel-neo-malioboro---yogyakarta,Success
+181,Harper Cikarang,https://www.harperhotels.com/en/hotel/view/56/harper-cikarang,Success
+182,Favehotel Airport - Yogyakarta,https://www.favehotels.com/hotellist/eng/121/fave-hotel-airport---yogyakarta,Failed
+183,Favehotel Serpong - Tangerang,https://www.favehotels.com/hotellist/eng/122/favehotel-serpong---tangerang,Failed
+184,favehotel Hasyim Ashari,https://www.favehotels.com/en/hotel/view/96/favehotel-hasyim-ashari,Success
+185,favehotel Imam Bonjol Samarinda,https://www.favehotels.com/hotellist/eng/97/favehotel-imam-bonjol-samarinda,Failed
+186,favehotel Rungkut Surabaya,https://www.favehotels.com/en/hotel/view/89/favehotel-rungkut,Success
+187,Aston Sidoarjo City Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/56/aston-kahuripan-city-hotel---sidoarjo,Failed
+188,favehotel Subang,https://www.favehotels.com/en/hotel/view/134/favehotel-subang,Success
+189,favehotel Sudirman - Bojonegoro,https://www.favehotels.com/en/hotel/view/132/favehotel-sudirman-bojonegoro,Success
+190,favehotel Tuban,https://www.favehotels.com/en/hotel/view/131/favehotel-tuban,Success
+191,Hotel Neo Gubeng - Surabaya,https://www.neohotels.com/en/hotel/view/62/hotel-neo-gubeng---surabaya,Success
+192,favehotel Kwitang - Jakarta,https://www.favehotels.com/hotellist/eng/135/favehotel-kwitang---jakarta,Failed
+193,Hotel Neo+ Balikpapan,https://www.neohotels.com/en/hotel/view/63/hotel-neo--balikpapan,Success
+194,favehotel S. Parman Medan,https://www.favehotels.com/en/hotel/view/136/favehotel-s--parman-medan,Success
+195,Aston Inn Batu,https://www.astonhotelsinternational.com/en/hotel/view/67/aston-inn-batu,Success
+196,favehotel Sidoarjo,https://www.favehotels.com/en/hotel/view/144/favehotel-sidoarjo,Success
+197,favehotel Kuta Kartika Plaza,https://www.favehotels.com/en/hotel/view/138/favehotel-kuta-kartika-plaza,Success
+198,Quest Plus Conference Center - Clark,https://questhotelsandresorts.com/clark/,Success
+199,Aston Canggu Beach Resort,https://www.astonhotelsinternational.com/en/hotel/view/57/aston-canggu-beach-resort,Success
+200,Aston Inn Pandanaran - Semarang,https://www.astonhotelsinternational.com/en/hotel/view/58/aston-inn-pandanaran---semarang,Success
+201,Hotel Neo+ Waru - Sidoarjo,https://www.neohotels.com/en/hotel/view/65/hotel-neo--waru---sidoarjo,Success
+202,favehotel Madiun,https://www.favehotels.com/en/hotel/view/140/favehotel-madiun,Success
+203,Aston Kartika Grogol Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/59/aston-kartika-grogol-hotel---conference-center,Success
+204,Aston Gresik Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/60/aston-inn-gresik,Failed
+205,favehotel Sorong,https://www.favehotels.com/en/hotel/view/142/favehotel-sorong,Success
+206,Hotel Neo+ Kebayoran - Jakarta,https://www.neohotels.com/en/hotel/view/66/hotel-neo--kebayoran---jakarta,Success
+207,favehotel Tasikmalaya,https://www.favehotels.com/en/hotel/view/143/favehotel-tasikmalaya,Failed
+208,The Ritz Village Curacao,https://www.questhotels.com/en/hotel/view/2/the-ritz-hotel--curacao,Failed
+209,Aston Serpong,https://www.astonhotelsinternational.com/en/hotel/view/65/aston-serpong,Success
+210,The Alana Hotel & Conference Center - Sentul City,https://www.alanahotels.com/en/hotel/view/5/the-alana-hotel---conference-center---sentul-city,Success
+211,favehotel Malang,https://www.favehotels.com/en/hotel/view/58/favehotel-malang,Success
+212,The Prajan Suites Heritage Hotel,https://www.astonhotelsinternational.com/en/hotel/view/66/the-prajan-suites-heritage-hotel,Failed
+213,Hotel Neo Ahmad Yani - Malang,https://www.neohotels.com/en/hotel/view/67/hotel-neo-ahmad-yani---malang,Failed
+214,NOMAD Hostel Kemang,https://www.nomadhostels.com/en/hostel/view/2/nomad-hostel-kemang---jakarta,Failed
+215,Harper Palembang,https://www.harperhotels.com/en/hotel/view/58/harper-palembang,Success
+216,Aston Sumenep,https://www.astonhotelsinternational.com/en/hotel/view/69/aston-sumenep,Failed
+217,Grand Aston Cayo Las Brujas Beach Resort & Spa - Cuba,https://www.astonhotelsinternational.com/en/hotel/view/72/aston-cayo-santa-maria,Failed
+218,Harper Wahid Hasyim - Medan,https://www.harperhotels.com/en/hotel/view/59/harper-wahid-hasyim---medan,Success
+219,favehotel Prabumulih - South Sumatera,https://www.favehotels.com/en/hotel/view/147/favehotel-prabumulih---south-sumatera,Success
+220,Aston Cilegon Boutique Hotel,https://www.astonhotelsinternational.com/en/hotel/view/73/aston-cilegon-boutique-hotel,Success
+221,Aston Inn Gideon - Batam,https://www.astonhotelsinternational.com/en/hotel/view/76/aston-inn-gideon---batam,Success
+222,favehotel Bitung - North Sulawesi,https://www.favehotels.com/en/hotel/view/149/favehotel-bitung---north-sulawesi,Success
+223,The Paditeras Seminyak,https://www.astonhotelsinternational.com/en/hotel/view/75/the-paditeras-seminyak,Failed
+224,favehotel Ketapang,https://www.favehotels.com/en/hotel/view/146/favehotel-ketapang,Success
+225,Harper Kupang - East Nusa Tenggara,https://www.harperhotels.com/en/hotel/view/61/harper-kupang---east-nusa-tenggara,Success
+226,The Alana Hotel & Conference Center Malioboro,https://www.alanahotels.com/en/hotel/view/5/the-alana-hotel---conference-center-malioboro,Success
+227,favehotel Pamanukan,https://www.favehotels.com/en/hotel/view/150/favehotel-pamanukan,Success
+228,Hotel Neo Puri Indah,https://www.neohotels.com/en/hotel/view/68/hotel-neo-puri-indah---jakarta,Success
+229,Aston Kemayoran City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/79/aston-inn-kemayoran---jakarta,Failed
+230,"Grand Aston Varadero Beach Resort (Varadero, Cuba)",,Failed
+232,Quest Hotel Port Dickson,,Failed
+234,Quest Hotel – Tagaytay,https://questhotelsandresorts.com/tagaytay/,Success
+235,Aston Minangkabau Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/81/aston-minangkabau--hotel---conference-center,Failed
+236,favehotel Karawang,https://www.favehotels.com/en/hotel/view/50/favehotel-karawang,Success
+237,favehotel Prabumulih - South Sumatera,https://www.favehotels.com/en/hotel/view/147/favehotel-prabumulih---south-sumatera,Success
+238,Aston Bellevue Radio Dalam,https://www.astonhotelsinternational.com/en/hotel/view/82/aston-bellevue-radio-dalam,Success
+239,Aston Gorontalo Hotel & Villas,https://www.astonhotelsinternational.com/en/hotel/view/88/aston-gorontalo-hotel---villas,Success
+240,"Aston Panorama Hotel (La Habana, Cuba)",,Failed
+241,"Aston Costa Verde Beach Resort (Holguín, Cuba)",https://www.astonhotelsinternational.com/en/hotel/view/87/aston-costa-verde-beach-resort,Success
+242,Grand Aston La Habana,https://www.astonhotelsinternational.com/en/hotel/view/86/grand-aston-la-habana,Success
+243,Royal Malioboro,https://www.astonhotelsinternational.com/en/hotel/view/78/royal-malioboro,Success
+244,"Aston Inn Ajyad (Makkah, Saudi Arabia)",,Failed
+245,Aston City Samama Executive Apartments,,Failed
+246,"Jabal Omar The Royal Alana (Makkah, Saudi Arabia)",,Failed
+247,"Jabal Omar The Alana (Makkah, Saudi Arabia)",,Failed
+248,Kamuela Lagoi Bay Villas - Bintan,https://www.kamuelavillas.com/en/villa/view/5/kamuela-villas-lagoi-bay-bintan,Failed
+249,Grand Aston Cayo Paredón Beach Resort,https://www.astonhotelsinternational.com/en/hotel/view/95/grand-aston-cayo-paredon-beach-resort,Success
+251,Aston Inn Jemursari,https://www.astonhotelsinternational.com/en/hotel/view/93/aston-inn-jemursari,Success
+253,Quest Hotel Prime Pemuda - Semarang,https://www.questhotels.com/en/hotel/view/11/quest-prime-pemuda---semarang,Failed
+254,Grand Aston Puncak,https://www.astonhotelsinternational.com/en/hotel/view/71/grand-aston-puncak-hotel---resort,Success
+255,Hotel Neo Gading - Solo,https://www.neohotels.com/en/hotel/view/69/hotel-neo-gading-solo,Success
+256,The Alana Hotel Malang,https://www.alanahotels.com/en/hotel/view/6/the-alana-hotel-malang,Success
+257,Aston Mojokerto Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/105/aston-mojokerto-hotel---conference-center,Success
+258,Aston Nagoya City Hotel,https://www.astonhotelsinternational.com/en/hotel/view/103/aston-nagoya-city-hotel,Success
+259,favehotel Nagoya - Batam,https://www.favehotels.com/en/hotel/view/65/favehotel-nagoya---batam,Success
+260,favehotel Kediri,https://www.favehotels.com/en/hotel/view/53/favehotel-kediri,Success
+274,Aston Costa Verde Beach Resort - Cuba,,Failed
+275,Aston Inn Cilacap,https://www.astonhotelsinternational.com/en/hotel/view/102/aston-inn-cilacap,Success
+276,Aston Bintaro Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/116/aston-bintaro-hotel---conference-center,Success
+277,Aston Palu Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/47/aston-palu-hotel---conference-center,Success
+278,Aston Inn Blitar,,Failed
+279,Aston Serang Hotel & Convention Center,https://www.astonhotelsinternational.com/en/hotel/view/108/aston-serang-hotel---convention-center,Success
+280,Aston Inn Kertajati,,Failed
+281,favehotel Jember,,Failed
+282,favehotel Nganjuk,,Failed
+283,favehotel Royal Sudirman - Lumajang,,Failed
+284,favehotel Lampung,,Failed
+285,Surabaya Suites Hotel Powered by Archipelago,http://surabayasuites.com/,Success
+305,Aston Sorong  Hotel & Conference Center,https://www.astonhotelsinternational.com/en/hotel/view/101/aston-sorong-hotel---conference-center,Success
+309,Harper Banjarmasin - Kalimantan,https://www.harperhotels.com/en/hotel/view/47/harper-banjarmasin,Success
+310,Aston nha trang city hotel,,Failed
+322,Alron Hotel Kuta,,Failed
+351,The Royal Alana Sentani Jayapura,,Failed
+355,Aston Inn Tasikmalaya,https://www.astonhotelsinternational.com/en/hotel/view/110/aston-inn-tasikmalaya,Success
+371,OCEAN BEACH RESORT & SPA - ASTON COLLECTION HOTELS,,Failed
+421,Harper Premier Nagoya Batam,https://www.harperhotels.com/en/hotel/view/17/harper-premier-nagoya-batam,Success
+429,Aston Inn Rembang,,Failed
+434,Hotel Neo+ Airport - Jakarta,,Failed
+436,Aston Rubi City Suites,https://www.astonhotelsinternational.com/en/hotel/view/118/aston-rubi-city-suites,Success
+,,,
+Summary,Total Hotels: 277,Empty Website Links: 20,Check Date: 2024-12-14 11:18:34

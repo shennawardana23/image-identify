@@ -1,0 +1,7 @@
+### Check Website URLs
+GET http://localhost:9000/api/link-checker
+Accept: text/csv
+
+### Health Check
+GET http://localhost:9000/health
+Accept: application/json

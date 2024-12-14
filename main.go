@@ -1,56 +1,52 @@
 package main
 
 import (
-	"fmt"
+	"image-identify/config"
+	"image-identify/controllers"
+	"image-identify/repositories"
 	"log"
-	"net/http"
 	"os"
-	"strconv"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
 )
 
 func main() {
-	// Load environment variables
+	// Load .env file
 	if err := godotenv.Load(); err != nil {
-		log.Fatal("Error loading .env file")
+		log.Printf("Warning: .env file not found or error loading it: %v", err)
 	}
 
-	// Initialize database
+	// Initialize DB
 	db := config.InitDB()
+	if db == nil {
+		log.Fatal("Failed to initialize database")
+		return
+	}
 
-	// Initialize Gin router
-	r := gin.Default()
+	// Initialize repository
+	hotelRepo := repositories.NewHotelRepository(db)
 
-	// Define routes
-	r.GET("/api/image", func(c *gin.Context) {
-		var websites []models.Website
-		if err := db.Find(&websites).Error; err != nil {
-			c.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
-			return
-		}
+	// Initialize controller
+	websiteController := controllers.NewWebsiteController(hotelRepo)
 
-		urls := make([]string, len(websites))
-		for i, website := range websites {
-			urls[i] = website.ImageURL
-		}
+	// Setup router
+	router := gin.Default()
 
-		workerCount, _ := strconv.Atoi(os.Getenv("WORKER_POOL_SIZE"))
-		results := services.CheckURLs(urls, workerCount)
+	// Routes
+	api := router.Group("/api")
+	{
+		api.GET("/link-checker", websiteController.CheckWebsites)
+	}
 
-		// Generate CSV response
-		c.Header("Content-Type", "text/csv")
-		c.Header("Content-Disposition", "attachment;filename=results.csv")
+	// Get port from env or use default
+	port := getEnvWithDefault("SERVER_PORT", "8080")
+	router.Run(":" + port)
+}
 
-		c.Writer.Write([]byte("URL,Status,Message\n"))
-		for _, result := range results {
-			line := fmt.Sprintf("%s,%t,%s\n", result.URL, result.Status, result.Message)
-			c.Writer.Write([]byte(line))
-		}
-	})
-
-	// Start server
-	port := os.Getenv("SERVER_PORT")
-	r.Run(":" + port)
+func getEnvWithDefault(key, defaultValue string) string {
+	if value := os.Getenv(key); value != "" {
+		return value
+	}
+	return defaultValue
 }
